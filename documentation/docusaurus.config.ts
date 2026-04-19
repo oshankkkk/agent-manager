@@ -88,6 +88,7 @@ const config: Config = {
             current: {
               label: 'Next',
               banner: 'unreleased',
+              noIndex: true,
             },
             cloud: {
               label: 'Cloud',
